@@ -5,6 +5,11 @@ JIRA: https://postmates.atlassian.net/browse/FLEET-
 - [ ]
 - [ ]
 
+**Open questions and pre-merge TODOs**
+- [ ]
+- [ ]
+- [ ]
+
 **What's out of scope**
 - [ ]
 - [ ]
