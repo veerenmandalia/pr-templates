@@ -1,7 +1,11 @@
 JIRA: https://postmates.atlassian.net/browse/FLEET-
 
-Tests performed
+**Tests performed**
+- [ ]
+- [ ]
 - [ ]
 
-What's out of scope
+**What's out of scope**
+- [ ]
+- [ ]
 - [ ]
